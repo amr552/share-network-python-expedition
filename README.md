@@ -1,9 +1,7 @@
-# Share Network — Python Expedition (Volunteer Course)
+# Share Network — Python Expedition 
 
 This repository contains **3 beginner assignments** and a **final project (Snake Game)** for the Share Network Python Expedition class.
 
-- Instructor: **Ahmed**
-- Audience: Beginners (first steps in programming)
 - Submission options:
   1) **GitHub Fork + Pull Request** (preferred)
   2) **Google Drive upload** (allowed)
@@ -11,9 +9,9 @@ This repository contains **3 beginner assignments** and a **final project (Snake
 ---
 
 ## Assignments
-1. [Assignment 01 — FizzBuzz](assignments/assignment-01-fizzbuzz/README.md)
-2. [Assignment 02 — Grading Program](assignments/assignment-02-grading-program/README.md)
-3. [Assignment 03 — Prime Number Checker](assignments/assignment-03-prime-number-checker/README.md)
+1. [Assignment 01 — FizzBuzz, Grading Program, Prime Number Checker](assignments/assignment-01/README.md)
+2. [Assignment 02 — Coffee Machine program](assignments/assignment-02/README.md)
+3. [Assignment 03 — Turtle GUI](assignments/assignment-03/README.md)
 
 ## Final Project
 - [Final Project — Snake Game](final-project/README.md)
