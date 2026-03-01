@@ -1,4 +1,4 @@
-# Assignment 01 — FizzBuzz (Python)
+# Assignment 01 (Python)
 
 You are going to write a program that automatically prints the solution to the FizzBuzz game. These are the rules of the FizzBuzz game:
 
